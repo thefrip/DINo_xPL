@@ -1,3 +1,3 @@
 # DINo_xPL
 
-This implements an xPL connectivity into the KMTronic DINo board.
+This implements a (very) basic xPL connectivity layer into the KMTronic DINo board.
